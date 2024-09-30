@@ -2,4 +2,4 @@
 
 This is my first repository using HTML and little Bit of CSS
 <br>
-Author- Jubair Zidan islam
+Author- Jubair Zidan
